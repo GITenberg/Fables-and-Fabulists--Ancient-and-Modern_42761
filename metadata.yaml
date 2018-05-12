@@ -1,0 +1,27 @@
+_repo: Fables-and-Fabulists--Ancient-and-Modern_42761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newbigging, Thomas
+    birthdate: 1833
+    deathdate: 1914
+    gutenberg_agent_id: '40338'
+    url: http://www.gutenberg.org/2009/agents/40338
+description: ''
+gutenberg_issued: '2013-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'Didactic literature -- History and criticism'
+title: 'Fables and Fabulists: Ancient and Modern'
+url: http://www.gutenberg.org/ebooks/42761
